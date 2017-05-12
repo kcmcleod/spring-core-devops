@@ -9,7 +9,7 @@ public class SpringCoreDevOpsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
-		//this is a whitespace change test
-		// another test...
+		// taken over by KCM
+		// trying to force jenkins to recompile!
 	}
 }
